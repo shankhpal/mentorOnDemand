@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+.adminhomenew{
+  background-color: #060b26;
+}
+.coursetable{
+  width: 100%;
+}
+
+.admindash{
+  height: auto;
+}

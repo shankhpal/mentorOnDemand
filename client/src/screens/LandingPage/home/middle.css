@@ -1,0 +1,16 @@
+.middle{
+    height: auto;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-top: 80px;
+    padding: 50px;
+      
+}
+.rw{
+    padding-top:50px;
+}
+.bt{
+    padding-top:80px;
+    padding-left: 50px; 
+}
